@@ -1,0 +1,186 @@
+
+*{
+    padding-inline-start: 0px;
+    box-sizing: border-box;
+    font-family: 'Martel', serif;
+
+}
+
+
+
+body{
+
+    color: black;
+    background-color: white;
+
+    
+    
+}
+
+
+
+
+
+.iconos img{
+
+        
+         width: 80px;
+         height: 80px;
+
+
+}
+
+.iconos img:hover{
+               
+    cursor: pointer;
+
+
+}
+
+
+
+.iconos li{
+        
+        
+        list-style-type: none;
+        display: inline-block;
+        
+        
+
+}
+
+
+
+
+.contenedor{
+        
+       position: absolute;
+       width: 800px;
+       display: inline-block;
+       
+       
+      
+       margin-top: 50px;
+       margin-left: 400px;
+       margin-bottom: 250px;
+               
+       
+       
+}
+
+
+
+.contenedor p{
+            
+              width: 750px;
+              font-size: 18px;
+
+
+}
+
+
+
+
+.contenedor h2{
+
+            padding-left: 30px;
+            border: 2px;
+            border-color: black;
+            border-style: solid;
+            background-color: aquamarine;
+            box-shadow: 0 10px 30px 0 black;
+            width: 750px;
+            font-size: 18px;
+            font-family:'Merienda One', cursive;
+      
+        
+
+
+}
+
+
+
+#Desarrollador{
+
+               color: coral;
+               font-weight: bold;
+
+}
+
+
+ h1{
+
+    font-family: 'Merienda One', cursive;
+    
+    
+}
+
+
+nav {
+
+    padding: 10px;
+    margin-left: 20px; 
+    margin-top: 55px;
+    position: fixed;
+    width: 255px;
+
+
+}
+
+
+nav ul {
+    
+    font-size: 19px;
+    position: fixed;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    background-color: aquamarine;
+    box-shadow: 0 10px 30px 0 black;
+    width: 235px;
+    padding: 30px;
+  
+    
+           
+}
+
+
+
+nav ul li a{
+    text-decoration: none;
+    font-family: 'Merienda One', cursive; 
+    font-weight: bold;
+    color: black;
+    padding: 0px;
+ 
+
+}
+
+
+
+.presentacion img{
+
+             border: 2px;
+             border-style: solid;
+             border-color: black;
+             box-shadow: 0 10px 30px 0 black;
+
+             width: 100%;
+                        
+                        
+
+}
+
+
+
+hr{
+     margin: 0px;
+     width: 750px;
+}
+
+
+
+
+
+
+
